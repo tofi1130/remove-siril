@@ -11,5 +11,6 @@ Don't forget to change the shebang at the top of the shell script!
 # Note
 This removes the files as mentioned by the ninja install command, as it
 states the files when installing like
-Installing <this> to <that>
+Installing <<this>> to <<that>>
 I don't know any thing after that. lol
+And also, I used this on Siril 1.0.6
