@@ -1,0 +1,26 @@
+#!/usr/bin/bash
+rm -f /usr/local/share/icons/hicolor/symbolic/apps/org.free_astro.siril-symbolic.svg
+rm -f /usr/local/share/icons/hicolor/scalable/mimetypes/text-x-seq.svg
+rm -f /usr/local/share/icons/hicolor/scalable/apps/org.free_astro.siril.svg
+rm -f /usr/local/lib64/librtprocess.a
+rm -f /usr/local/bin/siril
+rm -f /usr/local/bin/siril-cli
+rm -f /usr/local/share/locale/de/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/el/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/es_ES/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/fr/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/it_IT/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/ja_JP/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/nl_BE/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/pl_PL/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/pt_BR/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/ru/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/locale/zh_CN/LC_MESSAGES/siril.mo
+rm -f /usr/local/share/man/man1/siril.1
+rm -f /usr/local/share/man/man1/siril-cli.1
+rm -f /usr/local/share/metainfo/org.free_astro.siril.appdata.xml
+rm -f /usr/local/share/mime/packages/siril.xml
+rm -f /usr/local/share/applications/org.free_astro.siril.desktop
+rm -f /usr/local/share/doc/siril/AUTHORS
+rm -f /usr/local/share/doc/siril/LICENSE.md
+rm -f /usr/local/share/doc/siril/LICENSE_sleef.txt
