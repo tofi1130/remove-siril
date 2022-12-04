@@ -1,5 +1,5 @@
 # remove-siril
-Remove Siril on Linux, installed from commands meson ninja install
+Remove Siril on Linux, installed from commands meson and ninja install
 
 # Selecting Interpreter
 Don't forget to change the shebang at the top of the shell script!
